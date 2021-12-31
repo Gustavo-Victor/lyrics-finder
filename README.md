@@ -1,2 +1,2 @@
 # lyrics-finder
-Repositories to search and display lyrics based on author
+Repository to search and display lyrics based on author
